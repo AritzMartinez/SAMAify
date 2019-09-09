@@ -2,4 +2,4 @@
 
 INTEGRANTES: Aritz Martinez, Adrian Danlos, Sergio Zulueta, Miguel Barros.
 
-![logo](Logo SAMAify.png)
+![logo](https://github.com/SAMAify/DOCUMENTOS/RETO 0/Logo SAMAify.png)
