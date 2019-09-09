@@ -1,1 +1,1 @@
-# SAMAify
+# SAMAify.
