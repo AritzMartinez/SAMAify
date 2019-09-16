@@ -1,0 +1,11 @@
+let n1;
+let n2;
+n1 =prompt("Introduce un numero" ,n1 );
+n2 =prompt("Introduce el numero" ,n2 );
+let suma = n1+n2;
+console.log(suma);
+let resta = n1-n2;
+let mutipli = n1*n2;
+let divi = n1/n2;
+let resto = n1%n2;
+console.log(suma +" "+ resta +" "+ mutipli +" "+ divi +" "+ resto);
